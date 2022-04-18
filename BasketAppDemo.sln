@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasketAppDemo", "BasketAppDemo\BasketAppDemo.csproj", "{643DA194-49D4-4F22-B014-9054DF01D348}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{643DA194-49D4-4F22-B014-9054DF01D348}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{643DA194-49D4-4F22-B014-9054DF01D348}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{643DA194-49D4-4F22-B014-9054DF01D348}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{643DA194-49D4-4F22-B014-9054DF01D348}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CBADC91F-D0F0-4AC5-9448-69C2509B5019}
+	EndGlobalSection
+EndGlobal
